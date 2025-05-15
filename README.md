@@ -37,7 +37,7 @@ sprunki/
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/IncrediboxSprunkiMods/sprunki.git
+   git clone https://github.com/IncrediboxSprunkiMod/sprunki.git
    cd sprunki
    ```
 2. Navigate into the project
@@ -52,5 +52,5 @@ We welcome fan-made contributions! Whether it's music, art, or code — feel fre
 This project is a fan work and not affiliated with the official Incredibox team.
 All original content belongs to their respective creators.
 
-Made with ❤️ by the Sprunki Mods Community
+Made with ❤️ by the Sprunki Mod Community
 🌐 https://sprunki-mods.net
