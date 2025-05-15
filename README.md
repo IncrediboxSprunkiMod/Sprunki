@@ -16,11 +16,17 @@
 ---
 
 ## 📁 Project Structure
+
 sprunki/
+
 ├── assets/ # Audio, visual, and animation resources
+
 ├── build/ # Compiled versions for release
+
 ├── config/ # Mod configuration files
+
 ├── docs/ # Project documentation
+
 └── README.md # Project overview
 
 ---
